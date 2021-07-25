@@ -1,10 +1,10 @@
-#Last updated April 8th 2021
+#Last updated June 25th 2021
 #Appodeal
 appodeal.com, 36051, DIRECT
 #BidMachine
 bidmachine.io, 36051, DIRECT
 #AdMob
-#Copy Admob's app-ads.txt entry from your Admob dashboard
+google.com, pub-6392411087117914, DIRECT, f08c47fec0942fa0
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
 facebook.com, Business ID, RESELLER, c3e20eee3f780d68
